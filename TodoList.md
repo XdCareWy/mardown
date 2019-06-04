@@ -5,3 +5,12 @@
 + [x] ```git push —set-upstream origin master```啥意思
 + [ ] git rebase的用法？该不该用？
 
+
+
+
+
+# 工作TodoList
+
++ [ ] 上传图片的宽、高、大小？
++ [ ] 预发包：http://enjoy5.admin.jd.com   线上包： http://enjoy.admin.jd.com  
++ [ ] 

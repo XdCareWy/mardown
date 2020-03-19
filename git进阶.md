@@ -14,6 +14,10 @@
 
 `post-commit`
 
+
+
+
+
 #### git配置
 
 系统：位置：`/etc/gitconfig`  操作该文件： `git config --system`
